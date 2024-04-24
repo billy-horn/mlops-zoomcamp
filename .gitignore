@@ -7,6 +7,7 @@ data/
 *.html
 *.csv
 
+.vscode
 .venv
 venv
 .idea
